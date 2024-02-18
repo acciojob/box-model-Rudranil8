@@ -4,6 +4,8 @@
 	padding: 20px;
 	border:1px solid black;
 	margin: 0 auto;
+	background-color:grey;
+	text-align:center;
 }
 .red, .green, .yellow{
 	display:inline-block;
