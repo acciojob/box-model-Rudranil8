@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.cont{
+	width: 300px;
+	padding: 20px;
+	border:1px solid black;
+	margin: 0 auto;
+}
+.red, .green, .yellow{
+	display:inline-block;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+.red{
+	background-color:red;
+}
+.green{
+	background-color:green;
+}
+.yellow{
+	background-color:yellow;
+}
